@@ -67,7 +67,9 @@ const translations = {
         "call_us": "Call Us",
         "juli": "Very good service and very professional staff. The doctor is very kind and the clinic is very clean.",
         "flori": "Excellent service! The staff was professional and courteous. I definitely recommend it!",
-        "Dental_laboratoty_assistant": "Dental Laboratory Assistant"
+        "Dental_laboratoty_assistant": "Dental Laboratory Assistant",
+       
+        
 
 
     },
@@ -139,7 +141,14 @@ const translations = {
         "call_us": "Na telefononi",
         "juli": "Sherbim shume i mire dhe staf shume profesional. doktori eshte shume i sjellshem dhe klinika eshte shume e paster.",
         "flori": "Shërbim i shkëlqyer! Stafi tregoi profesionalizëm dhe mirësjellje. Patjetër që e rekomandoj!",
-        "Dental_laboratoty_assistant": "Laborant Dentar"
+        "Dental_laboratoty_assistant": "Laborant Dentar",
+         "sabiina": "Dentisti ishte shumë i afte dhe shpjegoi me detaje procedurën, duke u siguruar që të ndihesha rehat gjatë gjithë kohës. Trajtimi ishte pa dhimbje dhe vlerësoj qasjen e butë. Higjienistja gjithashtu bëri një punë të shkëlqyer në pastrimin e dhëmbëve të mi, duke i lënë të ndihen të freskët dhe të shëndetshëm.",
+        "fiona": "Një klinikë e re në një zonë që nuk ka shumë klinika përreth. Ambienti ishte i ngrohtë dhe komod dhe nuk ndihesha aspak në ankth. Faleminderit stafit.",
+        "olsi": "Një nga klinikat më të mira dentare në Tiranë. E rekomandoj plotësisht.",
+        "ardiis": "Staf shumë profesional!! Klinika është shumë e pastër dhe në përputhje me standardet.",
+        "ted": "Stafi është i mrekullueshëm. Doktor Renato është shumë i sjellshëm dhe i kujdesshëm. Çmimet janë shumë të arsyeshme.",
+        "xhuana": "Klinika është shumë e pastër dhe estetike. Shkova për disa kavitete dhe shërbimi ishte i shkëlqyer. Stafi është shumë profesional.",
+        "akaid": "Shërbim i shkëlqyer. Shumë pastërti dhe profesionalizëm. E rekomandoj 100%."
     },
     "it": {
         "home": "Home",
@@ -208,7 +217,14 @@ const translations = {
         "call_us": "Chiamaci",
         "juli": "Ottimo servizio e personale molto professionale. Il medico è molto gentile e la clinica è molto pulita.",
          "flori": "Servizio eccellente! Lo staff è stato professionale e cortese. Lo consiglio assolutamente!",
-         "Dental_laboratoty_assistant": "Assistente di laboratorio odontotecnico"
+         "Dental_laboratoty_assistant": "Assistente di laboratorio odontotecnico",
+        "sabiina": "Il dentista era molto competente e ha spiegato in dettaglio la procedura, assicurandosi che mi sentissi a mio agio durante tutto il trattamento. Il trattamento è stato indolore e ho apprezzato l'approccio delicato. Anche l'igienista ha fatto un ottimo lavoro con la pulizia, lasciando i miei denti freschi e sani.",
+        "fiona": "Una nuova clinica in una zona dove non ci sono molte cliniche. L’ambiente era caldo e confortevole e non mi sono sentita affatto ansiosa. Grazie allo staff.",
+        "olsi": "Una delle migliori cliniche dentali a Tirana. Altamente raccomandata.",
+        "ardiis": "Personale molto professionale!! La clinica è molto pulita e conforme agli standard.",
+        "ted": "Lo staff è meraviglioso. Il dottor Renato è molto gentile e attento. I prezzi sono molto ragionevoli.",
+        "xhuana": "La clinica è molto pulita ed estetica. Sono andata per alcune carie e il servizio è stato eccellente. Il personale è molto professionale.",
+        "akaid": "Servizio eccellente. Molto pulito e professionale. Lo consiglio al 100%."
 
 
     }
